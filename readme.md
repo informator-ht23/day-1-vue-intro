@@ -36,3 +36,11 @@ Målet för dagen är att bekanta sig med grunder i vue. Efter dagen ska du kunn
 3. [Reactive component thinking](exercise/rct-component-thinking.md)
 4. [Traveling agency](exercise/data-traveling-agency.md)
 5. [Extra övningar](exercise/extra.md)
+
+
+## Länkar
+Skumma! igenom länk 2 och 3, högst 10 minuter läsning! Vi går igenom materialet under dagen.
+Obs! Längst upp på sidan till vänster står det "options" och "composition" som en toggle, gör så att den står på "options" (vue 2 syntax).
+1. [Live kodning](live-coding/)
+2. [Template syntax!](https://vuejs.org/guide/essentials/template-syntax.html#directives)
+3. [Reactivity fundamentals (data modeling)](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)
